@@ -3,7 +3,7 @@ import Link from 'next/link';
 function Sobre() {
     return (
         <div>
-            Sobre
+            <h1>Sobre</h1>
             <Link href="/">
                 <a>Acessar página inicial</a>
             </Link>
